@@ -1,0 +1,1 @@
+"use strict";function bgMusic(){var s=$("#bg-music")[0];s.paused?($("#background-music").html("<i class='fas fa-music'></i>"),s.play()):($("#background-music").html("<i class='fas fa-play'></i>"),s.pause())}
