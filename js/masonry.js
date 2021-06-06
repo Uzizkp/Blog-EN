@@ -1,1 +1,0 @@
-"use strict";$("#recent-posts").scroll(function(){var e=document.getElementById("Box").scrollTop,t=document.getElementById("Box").clientHeight;document.getElementById("Box").scrollHeight<=e+t&&bpage!=bpages&&load(bpage+=1)});
